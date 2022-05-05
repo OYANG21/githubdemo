@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 make some change.
+||||||| merged common ancestors
+=======
+hello
+>>>>>>> cdff0e0ba577537f3401e0fffefff780b04f9984
